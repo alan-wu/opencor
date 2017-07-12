@@ -845,6 +845,7 @@ SET(PLUGINS
     widget/GraphPanelWidget
     widget/MathMLViewerWidget
     widget/WebViewerWidget
+    widget/ZincPanelWidget
     widget/ZincWidget
 )
 
